@@ -59,5 +59,5 @@ printTagMac(
     companyName: 'Your Jewellers Pvt Ltd',
     barcodeValue: '4587120033',
   },
-  'Zebra_ZTC_ZD220' // Replace with the exact name from: lpstat -p
+  'Zebra_Technologies_ZTC_ZD220_203dpi_ZPL' // Replace with the exact name from: lpstat -p
 );
